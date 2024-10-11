@@ -44,24 +44,31 @@
 2. Open Terminal and Execute the Following Commands:
    ```bash
    python -m pip install -r requirements.txt
-Download This Project Zip Folder and Extract it.
-Move to the project folder in Terminal. Then run the following Commands:
- ```bash
- py manage.py makemigrations
- py manage.py migrate
- py manage.py runserver
-Download this project as a ZIP folder and extract it.
-Now enter the following URL in your browser installed on your PC:
- ```bash
- http://127.0.0.1:8000/
+3. Download This Project Zip Folder and Extract it.
+4. Move to the project folder in Terminal. Then run the following Commands:
+   ```bash
+   py manage.py makemigrations
+   py manage.py migrate
+   py manage.py runserver
+5. Download this project as a ZIP folder and extract it. Move to the project folder in Terminal. Then run the following commands:
+
+   ```bash
+   py manage.py makemigrations
+   py manage.py migrate
+   py manage.py runserver
+6. Now enter the following URL in your browser installed on your PC:
+
+   ```bash
+   http://127.0.0.1:8000/
 CHANGES REQUIRED FOR CONTACT US PAGE
 In the `settings.py` file, you have to give your email and password:
 
- ```bash
- EMAIL_HOST_USER = 'youremail@gmail.com'
- EMAIL_HOST_PASSWORD = 'your email password'
- EMAIL_RECEIVING_USER = 'youremail@gmail.com'
+   ```bash
+   EMAIL_HOST_USER = 'youremail@gmail.com'
+   EMAIL_HOST_PASSWORD = 'your email password'
+   EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 Drawbacks/LoopHoles
 Anyone can be Admin.
+
 Feedback
-Any suggestions and feedback are welcome. You can message me on Facebook
+Any suggestions and feedback are welcome.
