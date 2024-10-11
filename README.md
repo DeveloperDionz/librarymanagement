@@ -51,27 +51,16 @@ Move to the project folder in Terminal. Then run the following Commands:
  py manage.py migrate
  py manage.py runserver
 Download this project as a ZIP folder and extract it.
-
-Move to the project folder in Terminal. Then run the following commands:
-
-bash
-Copy code
-py manage.py makemigrations
-py manage.py migrate
-py manage.py runserver
 Now enter the following URL in your browser installed on your PC:
-
-arduino
-Copy code
-http://127.0.0.1:8000/
+ ```bash
+ http://127.0.0.1:8000/
 CHANGES REQUIRED FOR CONTACT US PAGE
-In the settings.py file, you have to give your email and password:
+In the `settings.py` file, you have to give your email and password:
 
-python
-Copy code
-EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
-EMAIL_RECEIVING_USER = 'youremail@gmail.com'
+ ```bash
+ EMAIL_HOST_USER = 'youremail@gmail.com'
+ EMAIL_HOST_PASSWORD = 'your email password'
+ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 Drawbacks/LoopHoles
 Anyone can be Admin.
 Feedback
