@@ -12,7 +12,8 @@
 ![dashboard snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/adminhomepage.png?raw=true)
 
 ### Available Book 
-![invoice snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/availablebook.png?raw=true)
+![invoice snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/availablebook.png)
+
 
 ### Issue Book 
 ![doctor snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/issuebook.png?raw=true)
