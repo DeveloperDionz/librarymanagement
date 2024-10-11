@@ -6,7 +6,7 @@
 ## Screenshots 
 
 ### Homepage 
-![homepage snap](https://github.com/DeveloperDionz/librarymanagement/librarymanagement/main/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/DeveloperDionz/librarymanagement/librarymanagement/blob/main/static/screenshots/homepage.png?raw=true)
 
 ### Admin Dashboard 
 ![dashboard snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/adminhomepage.png?raw=true)
