@@ -46,21 +46,21 @@
    python -m pip install -r requirements.txt
 Download This Project Zip Folder and Extract it.
 Move to the project folder in Terminal. Then run the following Commands:
-```bash
-py manage.py makemigrations
-py manage.py migrate
-py manage.py runserver
+ ```bash
+ py manage.py makemigrations
+ py manage.py migrate
+ py manage.py runserver
 Now enter the following URL in Your Browser Installed On Your PC:
-```arduino
-http://127.0.0.1:8000/
+ ```arduino
+ http://127.0.0.1:8000/
 CHANGES REQUIRED FOR CONTACT US PAGE
 In `settings.py` file, you have to give your email and password:
 
-```python
-EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
-EMAIL_RECEIVING_USER = 'youremail@gmail.com'
-Drawbacks/LoopHoles
+ ```python
+ EMAIL_HOST_USER = 'youremail@gmail.com'
+ EMAIL_HOST_PASSWORD = 'your email password'
+ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
+## Drawbacks/LoopHoles
 Anyone can be Admin.
 Feedback
 Any suggestions and feedback are welcome. You can message me on Facebook
