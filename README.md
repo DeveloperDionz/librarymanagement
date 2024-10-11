@@ -67,6 +67,7 @@ In the `settings.py` file, you have to give your email and password:
    EMAIL_HOST_USER = 'youremail@gmail.com'
    EMAIL_HOST_PASSWORD = 'your email password'
    EMAIL_RECEIVING_USER = 'youremail@gmail.com'
+
 Drawbacks/LoopHoles
 Anyone can be Admin.
 
