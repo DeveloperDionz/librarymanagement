@@ -50,7 +50,17 @@ Move to the project folder in Terminal. Then run the following Commands:
  py manage.py makemigrations
  py manage.py migrate
  py manage.py runserver
-Now enter the following URL in Your Browser Installed On Your PC:
+Download this project as a ZIP folder and extract it.
+
+Move to the project folder in Terminal. Then run the following commands:
+
+bash
+Copy code
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
+Now enter the following URL in your browser installed on your PC:
+
 arduino
 Copy code
 http://127.0.0.1:8000/
@@ -65,4 +75,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 Drawbacks/LoopHoles
 Anyone can be Admin.
 Feedback
-Any suggestions and feedback are welcome. You can message me on Facebook 
+Any suggestions and feedback are welcome. You can message me on Facebook
