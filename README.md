@@ -6,20 +6,20 @@
 ## Screenshots 
 
 ### Homepage 
-![homepage snap](https://github.com/DeveloperDionz/librarymanagement/librarymanagement/blob/main/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/homepage.png)
 
 ### Admin Dashboard 
-![dashboard snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/adminhomepage.png)
 
 ### Available Book 
 ![invoice snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/availablebook.png)
 
 
 ### Issue Book 
-![doctor snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/issuebook.png?raw=true)
+![issue book snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/issuebook.png)
 
 ### Issued Book 
-![doctor snap](https://github.com/DeveloperDionz/librarymanagement/main/static/screenshots/bookissued.png?raw=true)
+![issued book snap](https://raw.githubusercontent.com/DeveloperDionz/librarymanagement/main/static/screenshots/bookissued.png)
 
 ---
 
